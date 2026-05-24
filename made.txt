@@ -6,17 +6,9 @@
  ██║  ██║██║ ╚═╝ ██║██║   ██║   ╚██████╔╝██║  ██║██╔╝ ██╗
  ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
 ====================================================================
-  [GHOST_SHELL_PROFILE]
+  [SHELL_PROFILE]
 --------------------------------------------------------------------
   Developer : Amit Kushwaha (@amit0hx)
-  Roles     : Bug Bounty Hunter | Sysadmin | Reverse Engineer | IR
-  Identity  : Attacker + Defender (Hybrid Security Practitioner)
-  Education : BCA (Enterprise Networking & Security)
---------------------------------------------------------------------
-  [CORE PHILOSOPHY]
-  "Feature mat dekh, SYSTEM dekh. 
-   API mat test kar, TRUST tod. 
-   Frontend mat maan, backend force kar."
 --------------------------------------------------------------------
   Status    : Active Sentinel
 ====================================================================
